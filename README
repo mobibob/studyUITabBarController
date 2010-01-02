@@ -1,0 +1,8 @@
+Jan 2, 2010
+
+Using github for saving my study projects.
+
+studyUITabBarController is a study in extending the XCode SDK's sample app.  The first thing that I noticed is that the XIB does not hookup the delegate, so one cannot see the UITabBarControllerDelegate messages / events.
+
+Once I got it hooked up (see my post on my web FAQ), the trace worked.
+
